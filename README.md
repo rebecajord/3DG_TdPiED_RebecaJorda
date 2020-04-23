@@ -18,5 +18,5 @@ Textura transparente aplicada a recorrido.
 ## p9
 Bodegón con _MACOSX.
 ## p10
-Bodegón con referente Lissitzky.
+Bodegón con referente Lissitzky.[Lissitzky] (p10.jpg)
 ## p11
