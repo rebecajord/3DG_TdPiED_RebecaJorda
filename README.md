@@ -16,7 +16,7 @@ Textura aplicada a forma con movimiento.
 ## p8
 Textura transparente aplicada a recorrido. ["Coronavirus Festival"](p8.jpg)
 ## p9
-Bodegón con MACOSX.
+Bodegón con MACOSX.["Bodegón"](p9.jpg)
 ## p10
 Bodegón con referente Lissitzky. ["Lissitzky"](p10.jpg)
 ## p11
