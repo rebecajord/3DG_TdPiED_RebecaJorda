@@ -14,7 +14,7 @@ Mupi animado anunciando los ponentes que han venido a lo largo del curso 19-20 a
 ## p7
 Textura aplicada a forma con movimiento.
 ## p8
-Textura transparente aplicada a recorrido.
+Textura transparente aplicada a recorrido. ["Coronavirus Festival"](p8.jpg)
 ## p9
 Bodegón con MACOSX.
 ## p10
