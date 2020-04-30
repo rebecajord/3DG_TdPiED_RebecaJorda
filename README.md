@@ -2,7 +2,7 @@
 ## p1
 Rodillo de texto. ["Karma: tarda, pero llega"](Comp2_poster_2.gif)
 ## p2
-Texto extruido con forma de onda.
+Texto extruido con forma de onda. ["SEMPITERNO"](p2.gif)
 ## p3
 Texto con rotación.
 ## p4
