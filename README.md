@@ -6,7 +6,7 @@ Texto extruido con forma de onda. ["SEMPITERNO"(gif)](p2.gif) ["SEMPITERNO"(mp4)
 ## p3
 Texto con rotación.
 ## p4
-Texturas aplicadas al movimiento de ["hoja de papel"](p4.gif)
+Texturas aplicadas al movimiento de ["hoja de papel"(gif)](p4.gif) ["hoja de papel"(mp4)](p4.mp4)
 ## p5
 Aplicación de texturas en caras diferentes del cubo. Rotación y bucle.
 ## p6
