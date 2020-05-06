@@ -1,6 +1,6 @@
 # 3DG_TdPiED_RebecaJorda
 ## p1
-Rodillo de texto. ["Karma: tarda, pero llega"](Comp2_poster_2.gif)
+Rodillo de texto. ["Karma: tarda, pero llega"](p1.gif) ["Karma: tarda, pero llega."(mp4)](p1.mp4)
 ## p2
 Texto extruido con forma de onda. ["SEMPITERNO"](p2.gif)
 ## p3
