@@ -20,3 +20,4 @@ Bodegón con MACOSX.["Bodegón"](p9.jpg)
 ## p10
 Bodegón con referente Lissitzky. ["Lissitzky"](p10.jpg)
 ## p11
+Diseño de un [personaje](p11.jpg)
