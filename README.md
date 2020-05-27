@@ -4,7 +4,7 @@ Rodillo de texto. ["Karma: tarda, pero llega"(gif)](p1.gif) ["Karma: tarda, pero
 ## p2
 Texto extruido con forma de onda. ["SEMPITERNO"(gif)](p2.gif) ["SEMPITERNO"(mp4)](p2.mp4)
 ## p3
-Texto con rotación.["VOLTA"(gif)](p3_gif.gif)["VOLTA"(mp4)](p3_mp4.mp4)
+Texto con rotación.["VOLTA"(gif)](p3_gif.gif) ["VOLTA"(mp4)](p3_mp4.mp4)
 ## p4
 Texturas aplicadas al movimiento de ["hoja de papel"(gif)](p4.gif) ["hoja de papel"(mp4)](p4.mp4)
 ## p5
